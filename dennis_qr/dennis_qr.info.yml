@@ -1,0 +1,5 @@
+name: Dennis QR Code Generator
+type: module
+description: Custom QR generator.
+author: Dennis Abasa
+core_version_requirement: ^8 || ^9
